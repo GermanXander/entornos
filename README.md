@@ -1,1 +1,2 @@
-# Entornos Virtuales
+# Entornos Virtuales 
+requitements without freezing
